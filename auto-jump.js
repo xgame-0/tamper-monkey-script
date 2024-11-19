@@ -4,7 +4,7 @@
 // @license      MIT
 // @namespace    https://github.com/xgame-0/tamper-monkey-script
 // @version      2024-11-19
-// @description  auto jump
+// @description  auto jump to target link
 // @match        *://news.17173.com/*
 // @match        *://imagetwist.com/*
 // @match        *://img599.net/*
